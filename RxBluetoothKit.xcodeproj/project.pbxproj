@@ -30,7 +30,6 @@
 		0A7B27ED1F9F177C003F950E /* Descriptor.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1299C121CBE3DEE005DEA5B /* Descriptor.swift */; };
 		0A7B27FC1F9F190F003F950E /* RxBluetoothKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A7B27F31F9F190F003F950E /* RxBluetoothKit.framework */; };
 		0A7B28141F9F1964003F950E /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2666FD0B1CCE431B005E81CE /* Utilities.swift */; };
-		0A7B28151F9F1AE1003F950E /* RxBluetoothKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 2666FCEE1CCE42A5005E81CE /* RxBluetoothKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0A7B28181F9F1B05003F950E /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A7B28171F9F1B05003F950E /* RxSwift.framework */; };
 		0A7B281B1F9F1B21003F950E /* Descriptor.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1299C121CBE3DEE005DEA5B /* Descriptor.swift */; };
 		0A7B281D1F9F1B25003F950E /* ScannedPeripheral.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1299C211CBE3DEE005DEA5B /* ScannedPeripheral.swift */; };
@@ -48,7 +47,6 @@
 		0A7B28321F9F1B39003F950E /* CentralManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1299C0E1CBE3DEE005DEA5B /* CentralManager.swift */; };
 		0A7B28331F9F1B39003F950E /* AdvertisementData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1299C0C1CBE3DEE005DEA5B /* AdvertisementData.swift */; };
 		0A7B28341F9F1B39003F950E /* BluetoothState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26EF38C81D86EE1F00F9F468 /* BluetoothState.swift */; };
-		0A7B28351F9F1C08003F950E /* RxBluetoothKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 2666FCEE1CCE42A5005E81CE /* RxBluetoothKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0A7B283D1F9F1C71003F950E /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A7B28171F9F1B05003F950E /* RxSwift.framework */; };
 		1D1B99D520AEB25C00464AD6 /* PeripheralManagerRestoredState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D1B99D420AEB25C00464AD6 /* PeripheralManagerRestoredState.swift */; };
 		1D1B99D720AEB27C00464AD6 /* CentralManagerRestoredState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D1B99D620AEB27C00464AD6 /* CentralManagerRestoredState.swift */; };
@@ -176,7 +174,6 @@
 		1DCA1EF62028680D0090D14E /* CharacteristicNotificationManagerTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DCA1EF42028680D0090D14E /* CharacteristicNotificationManagerTest.swift */; };
 		1DCA1EF72028680D0090D14E /* CharacteristicNotificationManagerTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DCA1EF42028680D0090D14E /* CharacteristicNotificationManagerTest.swift */; };
 		2666FD8E1CCE457C005E81CE /* RxBluetoothKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2666FD841CCE457C005E81CE /* RxBluetoothKit.framework */; };
-		2666FD9D1CCE45E3005E81CE /* RxBluetoothKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 2666FCEE1CCE42A5005E81CE /* RxBluetoothKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2666FDAD1CCE4626005E81CE /* RxBluetoothKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2666FDA31CCE4626005E81CE /* RxBluetoothKit.framework */; };
 		2666FDD81CCE46E1005E81CE /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2666FD0B1CCE431B005E81CE /* Utilities.swift */; };
 		2666FDDE1CCE46E2005E81CE /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2666FD0B1CCE431B005E81CE /* Utilities.swift */; };
@@ -377,7 +374,6 @@
 		26509A761CC1270100EBA319 /* DeviceIdentifiers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DeviceIdentifiers.swift; sourceTree = "<group>"; };
 		26509A781CC1275E00EBA319 /* Peripheral+Convenience.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = "Peripheral+Convenience.swift"; sourceTree = "<group>"; };
 		2666FCED1CCE42A5005E81CE /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Source/Info.plist; sourceTree = "<group>"; };
-		2666FCEE1CCE42A5005E81CE /* RxBluetoothKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RxBluetoothKit.h; path = Source/RxBluetoothKit.h; sourceTree = "<group>"; };
 		2666FD061CCE430F005E81CE /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2666FD0B1CCE431B005E81CE /* Utilities.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 		2666FD841CCE457C005E81CE /* RxBluetoothKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RxBluetoothKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -704,7 +700,6 @@
 			isa = PBXGroup;
 			children = (
 				2666FCED1CCE42A5005E81CE /* Info.plist */,
-				2666FCEE1CCE42A5005E81CE /* RxBluetoothKit.h */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -839,7 +834,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0A7B28151F9F1AE1003F950E /* RxBluetoothKit.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -847,7 +841,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0A7B28351F9F1C08003F950E /* RxBluetoothKit.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -862,7 +855,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2666FD9D1CCE45E3005E81CE /* RxBluetoothKit.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
